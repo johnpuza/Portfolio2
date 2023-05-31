@@ -1,0 +1,83 @@
+body
+{
+    background-color: ghostwhite;
+}
+.con1
+{
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-left: 10px;   
+}
+
+.pnp
+{
+    margin-left: 650px;
+}
+.con2
+{
+    display: flexbox;
+}
+.q1
+{
+    background-color: whitesmoke;
+    height: 200px;
+}
+.q2
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q3
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q4
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q5
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q6
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q7
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q8
+{
+    background-color: whitesmoke;
+    height: 200px;
+}
+.q9
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+.q10
+{
+    background-color:  whitesmoke;
+    height: 200px;
+}
+
+.btn
+{
+    margin-right: 30px;
+}
+.Logo
+{
+ height: 80px;
+ width: auto;
+}
+.navbar
+{
+    background-color: #131313;
+}
